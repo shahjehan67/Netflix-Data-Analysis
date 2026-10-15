@@ -9,7 +9,7 @@ The goal of this project is to analyze Netflix's content catalog to find interes
 - Finding out which years had the highest content releases.
 - Identifying the top countries producing content on Netflix.
 
-## 🛠️ Tech Stack Used
+## Tech Stack Used
 - **Python**
 - **Pandas & NumPy** (For Data Manipulation)
 - **Matplotlib & Seaborn** (For Data Visualization)
@@ -19,5 +19,5 @@ The goal of this project is to analyze Netflix's content catalog to find interes
 2. **Release Trends:** Content production spiked rapidly post-2015.
 3. **Top Country:** The **United States** produces the highest amount of content on Netflix, followed by other nations like India.
 
-## 🚀 How to Run
+## How to Run
 You can open the `.ipynb` file directly in Google Colab or Jupyter Notebook to view the complete code and visualizations.
